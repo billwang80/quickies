@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543358003 source:c:\users\armab\onedrive\desktop\gene121\recursion prime\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+	<fstream>
+

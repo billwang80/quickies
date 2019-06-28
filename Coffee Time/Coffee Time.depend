@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541610031 source:c:\users\armab\onedrive\desktop\gene121\coffee time\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+	<fstream>
+
+1541632767 source:c:\users\armab\onedrive\desktop\coding\gene121\coffee time\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+	<fstream>
+
